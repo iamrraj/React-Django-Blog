@@ -6,7 +6,7 @@ The backend is completely build on Django using Django Rest Framework, while the
 
 # Demo
 
-**FrontEnd** :[https://simpleisbetter.herokuapp.com/](https://simpleisbetter.herokuapp.com/) \n
+**FrontEnd** :[https://simpleisbetter.herokuapp.com/](https://simpleisbetter.herokuapp.com/) 
 
 **BackEnd** :[https://softbike.herokuapp.com/](https://softbike.herokuapp.com/)
 
@@ -66,3 +66,6 @@ API Documentation is generated using the default tool provided by Django Rest Fr
 ### View The API documentation
 
 1. Make sure that the Backend Server is running.
+
+### Regrads
+### Rahul Raj
