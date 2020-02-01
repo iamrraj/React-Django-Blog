@@ -6,7 +6,8 @@ The backend is completely build on Django using Django Rest Framework, while the
 
 # Demo
 
-**FrontEnd** :[https://simpleisbetter.herokuapp.com/](https://simpleisbetter.herokuapp.com/)
+**FrontEnd** :[https://simpleisbetter.herokuapp.com/](https://simpleisbetter.herokuapp.com/) \n
+
 **BackEnd** :[https://softbike.herokuapp.com/](https://softbike.herokuapp.com/)
 
 ### Features
