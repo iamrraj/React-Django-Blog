@@ -17,8 +17,13 @@ The backend is completely build on Django using Django Rest Framework, while the
 - Create/Edit/Delete Your Posts
 - User Profile
 - Comment Enable On Post Using disqus
+- Comment Count On Post
+- Live Search Blog 
+- Filter Blog By Author By Click on Author Name
+-
 - Admin Panel
   - Create/View/Edit/Delete A User
+  - Pagination on All blog list and Live search 
   - Create/View/Edit/Delete A Post By Any User
   - View/Reply All Comments In The Blog
   - View/Edit/Delete All Newsletter In The Blog
